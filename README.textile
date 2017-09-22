@@ -1,0 +1,7 @@
+Scraper requested by Tom Ashton on the google group:
+https://groups.google.com/forum/?fromgroups=#!topic/scraperwiki/9FbgYB0ArTs
+
+Scrapes specified words, their popularities, and pronunciations.
+Sleeps 1 second between requests.
+
+Database contents are © Macmillan Pulishers Ltd.
